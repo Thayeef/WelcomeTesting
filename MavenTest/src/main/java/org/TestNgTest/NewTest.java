@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class NewTest {
 	
-	int a=30;
+	int a=40;
 	int b=10;
 	
 	
