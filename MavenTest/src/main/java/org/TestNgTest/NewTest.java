@@ -10,7 +10,7 @@ public class NewTest {
 	
   @Test
   public void add() {
-	  System.out.println("add-->"+ (a+b) );
+	  System.out.println("addition-->"+ (a+b) );
   }
   @Test
   public void sub() {
