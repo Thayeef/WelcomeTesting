@@ -18,7 +18,7 @@ public class NewTest {
   }
   @Test
   public void mul() {
-	  System.out.println("mul-->"+ (a*b) );
+	  System.out.println("multipli-->"+ (a*b) );
   }
   @Test
   public void div() {
