@@ -14,7 +14,7 @@ public class NewTest {
   }
   @Test
   public void sub() {
-	  System.out.println("sub-->"+ (a-b) );
+	  System.out.println("subtra-->"+ (a-b) );
   }
   @Test
   public void mul() {
